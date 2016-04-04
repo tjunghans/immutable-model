@@ -1,6 +1,6 @@
 {
   "name": "immutable-model",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Core model lib",
   "main": "./lib/model.js",
   "eslintConfig": {
@@ -36,7 +36,10 @@
   "files": [
     "lib"
   ],
-  "keywords": ["model", "immutable"],
+  "keywords": [
+    "model",
+    "immutable"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
